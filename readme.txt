@@ -76,7 +76,6 @@ SOLUCIONAR CONFLICTOS
 
 1ro: Actualizar el branch master
 2do: Actualizar el branch en cuestión, comparar mi rama con la master, de esta forma partir todos desde una misma base
-
     - git checkout master: Pasar al master
     - git pull origin master: Actualizar la rama (Nos trae toda la información actualizada del remoto)
     - git merge + el nombre de la rama (Ejemplo master): Fusionar ramas
@@ -88,7 +87,7 @@ SOLUCIONAR CONFLICTOS
     - git commit  -am + mensaje = Efectuar obligatoriamente el commit para llevar el mensaje al remoto github.
     - git push origin + branch en cuestion: Se llevan los cambios al origin master
 
-RESUMEN
+RESUMEN BÁSICO
     -Clonamos la carpeta FULLSTACK-JS-MANEKEITREAL del https del github profesor (git clone + URL)
     -Creo una carpeta en FULLSTACK-JS-MANEKEITREAL (Federico_Abeldaño)
     -Creo el README.md y escribo sobre él (touch README.md en cmder o directamente desde el Visual Studio Code).
@@ -96,4 +95,4 @@ RESUMEN
     -Agrego el mensaje (git commit "") para que se publiquen las modificaciones.
     -Envio al remoto github todas las modificaciones hechas (git push origin Federico_Abeldaño)
     -En el github clickeo en el compare & pull requests, luego asigno un Reviewers, modifico el titulo y clickeo en create pull requests. Queda solamente que me lo revisen.
-    -
+    
