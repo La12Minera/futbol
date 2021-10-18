@@ -40,7 +40,7 @@ git checkout -b + el nombre: Crear un nuevo branch
 
 git pull origin master: Hacer la inversa a "push". Traer el trabajo.
 
-git log: Historico del branch
+git log: Historico del branch. Me saltan todos los commit ejecutados. Con q cierro.
 
 git branch: Ver la cantidad de remotos
 
