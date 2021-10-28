@@ -21,4 +21,11 @@ NUEVA TAREA ASIGNADA
 7- Actualizar los cambios
     git commit -m + "mensaje"
 
-8- 
+8- Para el ejemplo en curso (index.html)
+    html:5
+
+9- Volvemos a repetir los pasos 6 y 7
+
+10- Llevar los cambios guardados al master de github
+    git push origin + branch en cuestion
+
