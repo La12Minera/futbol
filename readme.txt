@@ -44,6 +44,8 @@ git log: Historico del branch. Me saltan todos los commit ejecutados. Con q cier
 
 git branch: Ver la cantidad de remotos
 
+git branch -v: Ver la cantidad de remotos
+
 git branch -D Fede_feature: elimino el branch
 
 git clone + URL: clona (copia) el repositorio de github
